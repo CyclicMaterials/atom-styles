@@ -1,0 +1,23 @@
+{
+  "name": "atom-styles",
+  "version": "0.0.1",
+  "author": "Frederik Krautwald",
+  "description": "Shared styles for Material Design patterns",
+  "license": "MIT",
+  "bugs": "https://github.com/CyclicMaterials/atom-styles/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyclicMaterials/atom-styles"
+  },
+  "keywords": [
+    "cyclejs",
+    "styles",
+    "Material Design"
+  ],
+  "dependencies": {
+    "atom-color": "file:../atom-color",
+    "atom-typography": "file:../atom-typography"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
