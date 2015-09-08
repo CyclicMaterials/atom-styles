@@ -1,5 +1,5 @@
 {
-  "name": "atom-styles",
+  "name": "@cyclic/atom-styles",
   "version": "0.0.1",
   "author": "Frederik Krautwald",
   "description": "Shared styles for Material Design patterns",
